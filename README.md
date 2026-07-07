@@ -10,7 +10,7 @@ class AboutMe:
         self.name = "Kai"
         self.role = "Security Researcher"
 
-        self.focus = ["Vulnerability Research", "Offensive Security", "Exploit Development"]
+        self.focus = ["Vulnerability Research", "Web Application Security", "Operation Security"]
         self.primary_stack = ["Python", "C", "C++", "Bash", "Go"]
         self.arsenal = ["Burp Suite", "Wireshark", "GDB", "Nmap", "Metasploit"]
 
